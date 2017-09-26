@@ -27,7 +27,7 @@ Charles Reid is awesome. Here's a list of some of his awesome stuff.
 	- [Paradise Lost Bot Flock](#bots-milton)
 	- [Ginsberg Bot Flock](#bots-ginsberg)
 	- [This Is Watergate Bot (inactive)](#bots-watergate)
-	- [Twitter bots code](#bots-code)
+	- [Code](#bots-code)
 
 - [Books and Literature](#lit)
 
@@ -166,21 +166,21 @@ Charles Reid is awesome. Here's a list of some of his awesome stuff.
     * [Kali/Layer 3 Attacks](https://charlesreid1.com/wiki/Kali/Layer_3_Attacks)
     * [Kali/Layer 4 Attacks](https://charlesreid1.com/wiki/Kali/Layer_4_Attacks)
     * [Kali/Layer 5 Attacks](https://charlesreid1.com/wiki/Kali/Layer_5_Attacks)
-    * [Kali/Live USB](https://charlesreid1.com/wiki/Kali/Live USB)
+    * [Kali/Live USB](https://charlesreid1.com/wiki/Kali/Live_USB)
     * [Kali/Moving Root Partition](https://charlesreid1.com/wiki/Kali/Moving_Root_Partition)
     * [Kali/Moving Usr Partition](https://charlesreid1.com/wiki/Kali/Moving_Usr_Partition)
     * [Kali/Nethunter](https://charlesreid1.com/wiki/Kali/Nethunter)
-    * [Kali/Persistent USB](https://charlesreid1.com/wiki/Kali/Persistent USB)
-    * [Kali/Post Install](https://charlesreid1.com/wiki/Kali/Post Install)
+    * [Kali/Persistent USB](https://charlesreid1.com/wiki/Kali/Persistent_USB)
+    * [Kali/Post Install](https://charlesreid1.com/wiki/Kali/Post_Install)
     * [Kali/RaspberryPi](https://charlesreid1.com/wiki/Kali/RaspberryPi)
     * [Kali/Shortcuts](https://charlesreid1.com/wiki/Kali/Shortcuts)
     * [Kali/Upgrading](https://charlesreid1.com/wiki/Kali/Upgrading)
-    * [Kali/WEP Cracking](https://charlesreid1.com/wiki/Kali/WEP Cracking)
+    * [Kali/WEP Cracking](https://charlesreid1.com/wiki/Kali/WEP_Cracking)
     * [Kali/Wireless](https://charlesreid1.com/wiki/Kali/Wireless)
     * [Kali/Wordlists](https://charlesreid1.com/wiki/Kali/Wordlists)
     * [Kali/Workflow](https://charlesreid1.com/wiki/Kali/Workflow)
-    * [Kali 2.0/John the Ripper](https://charlesreid1.com/wiki/Kali 2.0/John_the_Ripper)
-    * [Kali 2.0/Wireless Debugging](https://charlesreid1.com/wiki/Kali 2.0/Wireless_Debugging)
+    * [Kali 2.0/John the Ripper](https://charlesreid1.com/wiki/Kali_2.0/John_the_Ripper)
+    * [Kali 2.0/Wireless Debugging](https://charlesreid1.com/wiki/Kali_2.0/Wireless_Debugging)
     * [Kali Fixes](https://charlesreid1.com/wiki/Kali_Fixes)
     * [Kali Live USB](https://charlesreid1.com/wiki/Kali_Live_USB)
     * [Kali Network Debugging](https://charlesreid1.com/wiki/Kali_Network_Debugging)
@@ -233,7 +233,7 @@ Charles Reid is awesome. Here's a list of some of his awesome stuff.
     * [Kali Raspberry Pi/Installing](https://charlesreid1.com/wiki/Kali_Raspberry_Pi/Installing)
     * [Kali Raspberry Pi/Installing Version 1](https://charlesreid1.com/wiki/Kali_Raspberry_Pi/Installing_Version_1)
     * [Kali Raspberry Pi/Post-Install](https://charlesreid1.com/wiki/Kali_Raspberry_Pi/Post-Install)
-    * [Kali Raspberry Pi/SD Card](https://charlesreid1.com/wiki/Kali_Raspberry_Pi/SD Card)
+    * [Kali Raspberry Pi/SD Card](https://charlesreid1.com/wiki/Kali_Raspberry_Pi/SD_Card)
     * [Kali Raspberry Pi/SSH](https://charlesreid1.com/wiki/Kali_Raspberry_Pi/SSH)
     * [Kali Raspberry Pi/Startup Services](https://charlesreid1.com/wiki/Kali_Raspberry_Pi/Startup_Services)
     * [Kali Raspberry Pi/Tcpdump](https://charlesreid1.com/wiki/Kali_Raspberry_Pi/Tcpdump)
@@ -382,7 +382,7 @@ TODO
 * [watergate](https://charlesreid1.com:3000/charlesreid1/watergate) - A Watergate White House tapes dialogue generator.
 
 <a name="bots-code"></a>
-## Twitter Bots Code
+## Code
 
 Twitter bots code at git.charlesreid1.com:
 * [apollospacejunk](https://charlesreid1.com:3000/charlesreid1/apollospacejunk) - Apollo Space Junk Twitter Bot Flock. Tweeting fake Apollo radio chatter.
