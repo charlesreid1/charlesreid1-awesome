@@ -44,16 +44,13 @@ Charles Reid is awesome. Here's a list of some of his awesome stuff.
 <a name="wiki-software-engineering"></a>
 ## Software Engineering
 
-* Art of Computer Programming
+* [Art of Computer Programming](https://charlesreid1.com/wiki/Category:ACOP)
 
-* Data Structures
-
-* General Computer Science Theory
-    * Theta versus Big O
-    * Theta vs Big O
+* [Data Structures](https://charelsreid1.com/wiki/Study_Guides)
 
 * Programming Problems and Puzzles
-	* [Traveling Salesperson Problem](https://charlesreid1.com/wiki/Traveling Salesperson Problem)
+	* [Traveling Salesperson Problem](https://charlesreid1.com/wiki/Traveling_Salesperson_Problem)
+	* [8 Queens](https://charlesreid1.com/wiki/8_Queens)
 
 * APIs
     * [Twilio](https://charlesreid1.com/wiki/Twilio)
