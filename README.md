@@ -426,6 +426,37 @@ Compiled list of book notes from the Charlesreid1 wiki:
 <a name="spotify"></a>
 # Jams
 
-*My favorite Spotify playlists.*
+*Favorite Spotify playlists, compliments of yours truly.*
 
-TODO
+[We Scrap It Out Dog](https://open.spotify.com/user/charlesreid1/playlist/0sArIea7DYPY9r98gV2zR5)
+
+[Call Me On My Burner Phone](https://open.spotify.com/user/charlesreid1/playlist/2mfMZOaeWR5QTAxDeT8mBG)
+
+[Murray And The Bear](https://open.spotify.com/user/charlesreid1/playlist/1mKqin3wHC8SWarokFfsrn)
+
+[Astronauts Drink (Wu) Tang](https://open.spotify.com/user/charlesreid1/playlist/4qQUpJO4Dc52Lk9MO9iqxS)
+
+[Fresh Pair Kix](https://open.spotify.com/user/charlesreid1/playlist/4bEYlNBWqtEIcQAAwtHFML)
+
+[Random Hops](https://open.spotify.com/user/charlesreid1/playlist/6B3LaE3tA8XIXCMacU30oU)
+
+[One-Armed Dancer](https://open.spotify.com/user/charlesreid1/playlist/1nWdkXIzjybx6R7Hy474V9)
+
+[Hapiness And/Or Death By Sevens](https://open.spotify.com/user/charlesreid1/playlist/6hpcJJIPxk1mBw68b3AjRm)
+
+[In The Shadows (Best Foot Forward)](https://open.spotify.com/user/charlesreid1/playlist/2k2O5IwIHIRcdO4fdxQt4H)
+
+[In The Shadows (Pandigital)](https://open.spotify.com/user/charlesreid1/playlist/40QHLApVV0fKufYM6tXrqD)
+
+[Rap Snacks](https://open.spotify.com/user/charlesreid1/playlist/6SzSC7s97VlXGXRp9ghXGB)
+
+[Kewl Jazz](https://open.spotify.com/user/charlesreid1/playlist/7u2IQybnMjxzwYWJrm5TOX)
+
+[Outerspox](https://open.spotify.com/user/charlesreid1/playlist/2I5lscDcoJk9HJHkEN8ziN)
+
+[Marching Tides](https://open.spotify.com/user/charlesreid1/playlist/5z2t5kevr9y9JdNbK10YPI)
+
+[Pass The May-O](https://open.spotify.com/user/charlesreid1/playlist/7zymxKvkowIfzMAhD7rQR2)
+
+[phat](https://open.spotify.com/user/charlesreid1/playlist/7kZXQiv7NJRFdI2WeD26ZZ)
+
