@@ -48,16 +48,15 @@ Charles Reid is awesome. Here's a list of some of his awesome stuff.
 
 * [Data Structures](https://charelsreid1.com/wiki/Study_Guides)
 
-* Programming Problems and Puzzles
+* Programming Problems and Puzzles:
 	* [Traveling Salesperson Problem](https://charlesreid1.com/wiki/Traveling_Salesperson_Problem)
 	* [8 Queens](https://charlesreid1.com/wiki/8_Queens)
 
-* APIs
+* APIs:
     * [Twilio](https://charlesreid1.com/wiki/Twilio)
     * [Twilio/Text Menus](https://charlesreid1.com/wiki/Twilio/Text_Menus)
     * [Twilio/Twimlet for Voicemail](https://charlesreid1.com/wiki/Twilio/Twimlet_for_Voicemail)
 	* [Twitter](https://charlesreid1.com/wiki/Twitter)
-	* [Flickrapi](https://charlesreid1.com/wiki/Flickrapi)
 
 <a name="wiki-graphs"></a>
 ## Graphs
@@ -69,7 +68,7 @@ Charles Reid is awesome. Here's a list of some of his awesome stuff.
 <a name="wiki-mathematics"></a>
 ## Mathematics
 
-* Mathematical Constants (1,000 Digits)
+* Mathematical Constants (Most to 1,000 Digits):
 	* [Euler-Mascheroni Constant](https://charlesreid1.com/wiki/Euler-Mascheroni_Constant)
 	* [Sqrt 2](https://charlesreid1.com/wiki/Sqrt2)
 	* [Phi](https://charlesreid1.com/wiki/Phi)
@@ -82,19 +81,19 @@ Charles Reid is awesome. Here's a list of some of his awesome stuff.
 	* [Pi](https://charlesreid1.com/wiki/Pi)
 	* [Sqrt 10](https://charlesreid1.com/wiki/Sqrt10)
 
-* Prime Numbers
+* Prime Numbers:
 	* [Palindromic Primes](https://charlesreid1.com/wiki/Palindromic_Primes)
 	* [Prime Generating Polynomials](https://charlesreid1.com/wiki/Prime_Generating_Polynomials)
 
-* Sequences
+* Sequences:
 	* [Fibonacci Numbers](https://charlesreid1.com/wiki/Fibonacci_Numbers)
 	* [Lucas Numbers](https://charlesreid1.com/wiki/Lucas_Numbers)
 	* [General Fibonacci Numbers](https://charlesreid1.com/wiki/General_Fibonacci_Numbers)
 
-* Special Numbers
+* Special Numbers:
 	* [Fermat Numbers](https://charlesreid1.com/wiki/Fermat_Numbers)
 
-* Big Numbers
+* Big Numbers:
 	* [3 Tetrated](https://charlesreid1.com/wiki/3_Tetrated) - a really big number.
 	* [4 Tetrated](https://charlesreid1.com/wiki/3_Tetrated) - a really, really big number.
 	* [Tetration](https://charlesreid1.com/wiki/Tetration) - an operation to compactly write extremely large numbers
@@ -112,14 +111,13 @@ Charles Reid is awesome. Here's a list of some of his awesome stuff.
 <a name="wiki-puzzles"></a>
 ## Puzzles
 
-* Mathematics Puzzles
+* Mathematics Puzzles:
 	* [Four Fours](https://charlesreid1.com/wiki/Four_Fours) - a puzzle for writing numbers as a combination of four fours
 	* [Five Fives](https://charlesreid1.com/wiki/Five_Fives) - extending the four fours puzzle to five fives 
 
-* Rubik's Cube
-	* [Rubiks](https://charlesreid1.com/wiki/Rubiks) - notes on Rubik's cube and other related puzzles
-	* [Rubiks](https://charlesreid1.com/wiki/Rubiks_Cube) - notes on the 3x3 Rubik's Cube
-	* [Rubiks](https://charlesreid1.com/wiki/Rubiks_Revenge) - notes on the 4x4 Rubik's Cube
+* [Rubik's](https://charlesreid1.com/wiki/Rubiks) - notes on Rubik's cube and other related puzzles
+	* [Rubik's Cube](https://charlesreid1.com/wiki/Rubiks_Cube) - notes on the 3x3 Rubik's Cube
+	* [Rubik's Revenge](https://charlesreid1.com/wiki/Rubiks_Revenge) - notes on the 4x4 Rubik's Cube
 
 <a name="wiki-hacking"></a>
 ## Hacking and Networking
@@ -143,10 +141,10 @@ Charles Reid is awesome. Here's a list of some of his awesome stuff.
     * [Stunnel/Server](https://charlesreid1.com/wiki/Stunnel/Server)
     * [Stunnel/Troubleshooting](https://charlesreid1.com/wiki/Stunnel/Troubleshooting)
 
-* Wireless
-
 * Networking
 	* [Tcpdump](https://charlesreid1.com/wiki/Tcpdump)
+
+* Wireless
 
 * Man in the Middle attacks
 
@@ -191,9 +189,9 @@ Charles Reid is awesome. Here's a list of some of his awesome stuff.
     * [Kali Wireless Debugging Part 2](https://charlesreid1.com/wiki/Kali_Wireless_Debugging_Part_2)
     * [Kali Wireless Debugging Part 3](https://charlesreid1.com/wiki/Kali_Wireless_Debugging_Part_3)
 
-
 * Devices
 	* [Technicolor C2100T](https://charlesreid1.com/wiki/Technicolor_C2100T)
+	* [Raspberry Pi](https://charesreid1.com/wiki/RasbperryPi)
 
 * [Docker](https://charlesreid1.com/wiki/Docker) - containerized system solutions
 	* [Docker/Basics](https://charlesreid1.com/wiki/Docker/Basics)
@@ -218,6 +216,7 @@ Charles Reid is awesome. Here's a list of some of his awesome stuff.
 <a name="wiki-tools"></a>
 ## Programming Tools
 
+*Notes on general programming tools and libraries.*
 
 
 <a name="wiki-minipwners"></a>
@@ -281,13 +280,13 @@ Charles Reid is awesome. Here's a list of some of his awesome stuff.
 <a name="code-github"></a>
 ## @charlesreid1 on Github
 
-*I am user @charlesreid1 on Github.*
+*I am user [@charlesreid1](https://github.com/charlesreid1) on Github.*
 
 
 <a name="code-git"></a>
 ## git.charlesreid1.com
 
-*Self-hosted Github clone (gitea).*
+*Self-hosted Github clone (gitea) at [git.charlesreid1.com](https://charlesreid1.com:3000).*
 
 More info about gitea, a Go-based Github clone:
 * [Blog post on gitea](https://charlesreid1.github.io/setting-up-a-self-hosted-github-clone-with-gitea.html)
