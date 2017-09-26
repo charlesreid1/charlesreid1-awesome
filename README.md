@@ -2,9 +2,15 @@
 
 An awesome list of all the awesome stuff I do.
 
-- [Wiki](#wiki)
-    - [A](#topic-a)
-    - [B](#topic-b)
+- [Charlesreid1.com Wiki](#wiki)
+    - [Software Engineering](#wiki-software-engineering)
+    - [Graphs](#wiki-graphs)
+	- [Mathematics](#wiki-mathematics)
+	- [Numerical Methods and Simulation](#wiki-numerical-methods)
+	- [Hacking and Networking](#wiki-hacking)
+	- [Programming Tools](#wiki-tools)
+	- [MiniPwners](#wiki-minipwners)
+	- [Radio](#wiki-radio)
 
 - [Github Blog](#blog)
 
@@ -23,7 +29,7 @@ An awesome list of all the awesome stuff I do.
 	- [This Is Watergate Bot (inactive)](#bots-watergate)
 	- [Twitter bots code](#bots-code)
 
-- [Reading](#reading)
+- [Books and Literature](#lit)
 
 - [Jams](#jams)
 
@@ -35,26 +41,230 @@ An awesome list of all the awesome stuff I do.
 <a name="wiki"></a>
 # Charlesreid1.com Wiki
 
-TODO
+<a name="wiki-software-engineering"></a>
+## Software Engineering
 
-<a name="topic-radio"></a>
+* Art of Computer Programming
+
+* Data Structures
+
+* General Computer Science Theory
+    * Theta versus Big O
+    * Theta vs Big O
+
+* Programming Problems and Puzzles
+	* [Traveling Salesperson Problem](https://charlesreid1.com/wiki/Traveling Salesperson Problem)
+
+* APIs
+    * [Twilio](https://charlesreid1.com/wiki/Twilio)
+    * [Twilio/Text Menus](https://charlesreid1.com/wiki/Twilio/Text_Menus)
+    * [Twilio/Twimlet for Voicemail](https://charlesreid1.com/wiki/Twilio/Twimlet_for_Voicemail)
+	* [Twitter](https://charlesreid1.com/wiki/Twitter)
+	* [Flickrapi](https://charlesreid1.com/wiki/Flickrapi)
+
+<a name="wiki-graphs"></a>
+## Graphs
+
+* Notes on Graph Theory
+	* [First Theorem of Graph Theory](https://charlesreid1.com/wiki/First_Theorem_of_Graph_Theory) - the first theorem of graph theory is, you do not talk about graph theory...
+	* []()
+
+<a name="wiki-mathematics"></a>
+## Mathematics
+
+* Mathematical Constants (1,000 Digits)
+	* [Euler-Mascheroni Constant](https://charlesreid1.com/wiki/Euler-Mascheroni_Constant)
+	* [Sqrt 2](https://charlesreid1.com/wiki/Sqrt2)
+	* [Phi](https://charlesreid1.com/wiki/Phi)
+	* [Sqrt 3](https://charlesreid1.com/wiki/Sqrt3)
+	* [e](https://charlesreid1.com/wiki/E)
+	* [Sqrt 5](https://charlesreid1.com/wiki/Sqrt5)
+	* [Sqrt 6](https://charlesreid1.com/wiki/Sqrt6)
+	* [Sqrt 7](https://charlesreid1.com/wiki/Sqrt7)
+	* [Sqrt 8](https://charlesreid1.com/wiki/Sqrt8)
+	* [Pi](https://charlesreid1.com/wiki/Pi)
+	* [Sqrt 10](https://charlesreid1.com/wiki/Sqrt10)
+
+* Prime Numbers
+	* [Palindromic Primes](https://charlesreid1.com/wiki/Palindromic_Primes)
+	* [Prime Generating Polynomials](https://charlesreid1.com/wiki/Prime_Generating_Polynomials)
+
+* Sequences
+	* [Fibonacci Numbers](https://charlesreid1.com/wiki/Fibonacci_Numbers)
+	* [Lucas Numbers](https://charlesreid1.com/wiki/Lucas_Numbers)
+	* [General Fibonacci Numbers](https://charlesreid1.com/wiki/General_Fibonacci_Numbers)
+
+* Special Numbers
+	* [Fermat Numbers](https://charlesreid1.com/wiki/Fermat_Numbers)
+
+* Big Numbers
+	* [3 Tetrated](https://charlesreid1.com/wiki/3_Tetrated) - a really big number.
+	* [4 Tetrated](https://charlesreid1.com/wiki/3_Tetrated) - a really, really big number.
+	* [Tetration](https://charlesreid1.com/wiki/Tetration) - an operation to compactly write extremely large numbers
+	* [Shannon Number](https://charlesreid1.com/wiki/Shannon_Number) - estimate of number of possible chess game outcomes (via Claude Shannon)
+	* [Eddington Number](https://charlesreid1.com/wiki/Eddington_Number) - estimate of number of protons in the known universe (via Arthur Eddington)
+
+<a name="wiki-numerical-methods"></a>
+## Numerical Methods and Simulation
+
+* [Fipy](https://charlesreid1.com/wiki/Fipy) - library for solving partial differential equations on a grid using Python
+	* [Fipy and Cantera](https://charlesreid1.com/wiki/Fipy_and_Cantera) - combining Fipy (PDE solver) and Cantera (thermochemistry library)
+	* [Fipy and Cantera/1D Diffusion](https://charlesreid1.com/wiki/Fipy_and_Cantera/1D_Diffusion) - Fipy and Cantera to solve 1D diffusion problems
+	* [Fipy and Cantera/Simple Transient Problem](https://charlesreid1.com/wiki/Fipy_and_Cantera/Simple_Transient_Problem) - Fipy and Cantera to solve transient reacting flow problems
+
+<a name="wiki-puzzles"></a>
+## Puzzles
+
+* Mathematics Puzzles
+	* [Four Fours](https://charlesreid1.com/wiki/Four_Fours) - a puzzle for writing numbers as a combination of four fours
+	* [Five Fives](https://charlesreid1.com/wiki/Five_Fives) - extending the four fours puzzle to five fives 
+
+* Rubik's Cube
+	* [Rubiks](https://charlesreid1.com/wiki/Rubiks) - notes on Rubik's cube and other related puzzles
+	* [Rubiks](https://charlesreid1.com/wiki/Rubiks_Cube) - notes on the 3x3 Rubik's Cube
+	* [Rubiks](https://charlesreid1.com/wiki/Rubiks_Revenge) - notes on the 4x4 Rubik's Cube
+
+<a name="wiki-hacking"></a>
+## Hacking and Networking
+
+*Notes on hacking tools, networking tools, and all-around security.*
+
+* [Stunnel](https://charlesreid1.com/wiki/Stunnel) - tool for creating SSH tunnels (useful for punching through firewalls)
+    * [Stunnel/Certificates](https://charlesreid1.com/wiki/Stunnel/Certificates)
+    * [Stunnel/Client](https://charlesreid1.com/wiki/Stunnel/Client)
+    * [Stunnel/Debugging](https://charlesreid1.com/wiki/Stunnel/Debugging)
+    * [Stunnel/Docker](https://charlesreid1.com/wiki/Stunnel/Docker)
+    * [Stunnel/HTTP](https://charlesreid1.com/wiki/Stunnel/HTTP)
+    * [Stunnel/Installing](https://charlesreid1.com/wiki/Stunnel/Installing)
+    * [Stunnel/Mac](https://charlesreid1.com/wiki/Stunnel/Mac)
+    * [Stunnel/OpenVPN](https://charlesreid1.com/wiki/Stunnel/OpenVPN)
+    * [Stunnel/Rsync](https://charlesreid1.com/wiki/Stunnel/Rsync)
+    * [Stunnel/Rsync 443](https://charlesreid1.com/wiki/Stunnel/Rsync_443)
+    * [Stunnel/SCP](https://charlesreid1.com/wiki/Stunnel/SCP)
+    * [Stunnel/SSH](https://charlesreid1.com/wiki/Stunnel/SSH)
+    * [Stunnel/Scp](https://charlesreid1.com/wiki/Stunnel/Scp)
+    * [Stunnel/Server](https://charlesreid1.com/wiki/Stunnel/Server)
+    * [Stunnel/Troubleshooting](https://charlesreid1.com/wiki/Stunnel/Troubleshooting)
+
+* Wireless
+
+* Networking
+	* [Tcpdump](https://charlesreid1.com/wiki/Tcpdump)
+
+* Man in the Middle attacks
+
+* Fuzzing
+
+* [Kali Linux](https://charlesreid1.com/wiki/Kali) - the ultimate security Linux distro
+    * [Kali/Annoyances](https://charlesreid1.com/wiki/Kali/Annoyances)
+    * [Kali/Anonymous Browsing](https://charlesreid1.com/wiki/Kali/Anonymous_Browsing)
+    * [Kali/Attack Layers](https://charlesreid1.com/wiki/Kali/Attack_Layers)
+    * [Kali/Change Mac Address](https://charlesreid1.com/wiki/Kali/Change_Mac_Address)
+    * [Kali/Custom ARM Image](https://charlesreid1.com/wiki/Kali/Custom_ARM_Image)
+    * [Kali/Dual Boot OS X](https://charlesreid1.com/wiki/Kali/Dual_Boot_OS_X)
+    * [Kali/Fixes](https://charlesreid1.com/wiki/Kali/Fixes)
+    * [Kali/Git/WifiListen](https://charlesreid1.com/wiki/Kali/Git/WifiListen)
+    * [Kali/HackRF](https://charlesreid1.com/wiki/Kali/HackRF)
+    * [Kali/Installing](https://charlesreid1.com/wiki/Kali/Installing)
+    * [Kali/Layer 1 Attacks](https://charlesreid1.com/wiki/Kali/Layer_1_Attacks)
+    * [Kali/Layer 2 Attacks](https://charlesreid1.com/wiki/Kali/Layer_2_Attacks)
+    * [Kali/Layer 3 Attacks](https://charlesreid1.com/wiki/Kali/Layer_3_Attacks)
+    * [Kali/Layer 4 Attacks](https://charlesreid1.com/wiki/Kali/Layer_4_Attacks)
+    * [Kali/Layer 5 Attacks](https://charlesreid1.com/wiki/Kali/Layer_5_Attacks)
+    * [Kali/Live USB](https://charlesreid1.com/wiki/Kali/Live USB)
+    * [Kali/Moving Root Partition](https://charlesreid1.com/wiki/Kali/Moving_Root_Partition)
+    * [Kali/Moving Usr Partition](https://charlesreid1.com/wiki/Kali/Moving_Usr_Partition)
+    * [Kali/Nethunter](https://charlesreid1.com/wiki/Kali/Nethunter)
+    * [Kali/Persistent USB](https://charlesreid1.com/wiki/Kali/Persistent USB)
+    * [Kali/Post Install](https://charlesreid1.com/wiki/Kali/Post Install)
+    * [Kali/RaspberryPi](https://charlesreid1.com/wiki/Kali/RaspberryPi)
+    * [Kali/Shortcuts](https://charlesreid1.com/wiki/Kali/Shortcuts)
+    * [Kali/Upgrading](https://charlesreid1.com/wiki/Kali/Upgrading)
+    * [Kali/WEP Cracking](https://charlesreid1.com/wiki/Kali/WEP Cracking)
+    * [Kali/Wireless](https://charlesreid1.com/wiki/Kali/Wireless)
+    * [Kali/Wordlists](https://charlesreid1.com/wiki/Kali/Wordlists)
+    * [Kali/Workflow](https://charlesreid1.com/wiki/Kali/Workflow)
+    * [Kali 2.0/John the Ripper](https://charlesreid1.com/wiki/Kali 2.0/John_the_Ripper)
+    * [Kali 2.0/Wireless Debugging](https://charlesreid1.com/wiki/Kali 2.0/Wireless_Debugging)
+    * [Kali Fixes](https://charlesreid1.com/wiki/Kali_Fixes)
+    * [Kali Live USB](https://charlesreid1.com/wiki/Kali_Live_USB)
+    * [Kali Network Debugging](https://charlesreid1.com/wiki/Kali_Network_Debugging)
+    * [Kali Top 10](https://charlesreid1.com/wiki/Kali_Top_10)
+    * [Kali Wireless Debugging](https://charlesreid1.com/wiki/Kali_Wireless_Debugging)
+    * [Kali Wireless Debugging Part 2](https://charlesreid1.com/wiki/Kali_Wireless_Debugging_Part_2)
+    * [Kali Wireless Debugging Part 3](https://charlesreid1.com/wiki/Kali_Wireless_Debugging_Part_3)
+
+
+* Devices
+	* [Technicolor C2100T](https://charlesreid1.com/wiki/Technicolor_C2100T)
+
+* [Docker](https://charlesreid1.com/wiki/Docker) - containerized system solutions
+	* [Docker/Basics](https://charlesreid1.com/wiki/Docker/Basics)
+	* [Docker/Boats](https://charlesreid1.com/wiki/Docker/Boats)
+	* [Docker/Boats/Wifi](https://charlesreid1.com/wiki/Docker/Boats/Wifi)
+	* [Docker/Deep Learning](https://charlesreid1.com/wiki/Docker/Deep_Learning)
+	* [Docker/Dockerfiles](https://charlesreid1.com/wiki/Docker/Dockerfiles)
+	* [Docker/Dockerfiles/Git](https://charlesreid1.com/wiki/Docker/Dockerfiles/Git)
+	* [Docker/Dockerhub](https://charlesreid1.com/wiki/Docker/Dockerhub)
+	* [Docker/Installing](https://charlesreid1.com/wiki/Docker/Installing)
+	* [Docker/MachineLearning](https://charlesreid1.com/wiki/Docker/MachineLearning)
+	* [Docker/Network Debugging](https://charlesreid1.com/wiki/Docker/Network_Debugging)
+	* [Docker/Networking](https://charlesreid1.com/wiki/Docker/Networking)
+	* [Docker/Pods](https://charlesreid1.com/wiki/Docker/Pods)
+	* [Docker/Pods/Deep Learning](https://charlesreid1.com/wiki/Docker/Pods/Deep_Learning)
+	* [Docker/Pods/Wifi](https://charlesreid1.com/wiki/Docker/Pods/Wifi)
+	* [Docker/Removing Images](https://charlesreid1.com/wiki/Docker/Removing_Images)
+	* [Docker/Rsync](https://charlesreid1.com/wiki/Docker/Rsync)
+	* [Docker/UGR Wifi Boat](https://charlesreid1.com/wiki/Docker/UGR_Wifi_Boat)
+	* [Docker/Volumes](https://charlesreid1.com/wiki/Docker/Volumes)
+
+<a name="wiki-tools"></a>
+## Programming Tools
+
+
+
+<a name="wiki-minipwners"></a>
+## MiniPwners
+
+*MiniPwners are tiny, pocket-sized computers that can be used as hacking devices.*
+
+* Raspberry Pi
+
+* [Kali Raspberry Pi](https://charlesreid1.com/wiki/Kali_Raspberry_Pi)
+    * [Kali Raspberry Pi/Headless](https://charlesreid1.com/wiki/Kali_Raspberry_Pi/Headless)
+    * [Kali Raspberry Pi/Headless SSH Problem](https://charlesreid1.com/wiki/Kali_Raspberry_Pi/Headless_SSH_Problem)
+    * [Kali Raspberry Pi/Headless Walkthrough](https://charlesreid1.com/wiki/Kali_Raspberry_Pi/Headless_Walkthrough)
+    * [Kali Raspberry Pi/Installing](https://charlesreid1.com/wiki/Kali_Raspberry_Pi/Installing)
+    * [Kali Raspberry Pi/Installing Version 1](https://charlesreid1.com/wiki/Kali_Raspberry_Pi/Installing_Version_1)
+    * [Kali Raspberry Pi/Post-Install](https://charlesreid1.com/wiki/Kali_Raspberry_Pi/Post-Install)
+    * [Kali Raspberry Pi/SD Card](https://charlesreid1.com/wiki/Kali_Raspberry_Pi/SD Card)
+    * [Kali Raspberry Pi/SSH](https://charlesreid1.com/wiki/Kali_Raspberry_Pi/SSH)
+    * [Kali Raspberry Pi/Startup Services](https://charlesreid1.com/wiki/Kali_Raspberry_Pi/Startup_Services)
+    * [Kali Raspberry Pi/Tcpdump](https://charlesreid1.com/wiki/Kali_Raspberry_Pi/Tcpdump)
+    * [Kali Raspberry Pi/WirelessRouter](https://charlesreid1.com/wiki/Kali_Raspberry_Pi/WirelessRouter)
+
+
+
+<a name="wiki-radio"></a>
 ## Radio
 
-*TODO: brief description*
+*Notes related to ham radio and software defined radio.*
 
 * Ham Radio
 	* [General](https://charlesreid1.com/wiki/General) - Notes from studying for general class ham license.
 	* [Radio/Digital Modes](https://charlesreid1.com/wiki/Radio/Digital_Modes) - digital modes for ham radio.
 	* [SSTV](https://charlesreid1.com/wiki/SSTV) - Slow scan TV
+
 * SDR
 	* [SDR](https://charlesreid1.com/wiki/SDR) - Software defined radio 
 	* [Fldigi](https://charlesreid1.com/wiki/Fldigi) - Polyglot package for digital modes
+	* [Flmsg](https://charlesreid1.com/wiki/Flmsg) - Backend for fldigi
 	* [Digital Modes on Raspberry Pi](https://charlesreid1.com/wiki/RaspberryPi/Digital_Modes) - running digital modes using a Raspberry Pi
 
 
-<br />
-<br />
 
+<br />
+<br />
 
 <a name="blog"></a>
 # Github Blog 
@@ -190,7 +400,7 @@ Twitter bots code at git.charlesreid1.com:
 <br />
 
 
-<a name="reading"></a>
+<a name="lit"></a>
 # Reading
 
 My record of what I've read over the last 10 years: [My Reading List](https://charlesreid1.com/wiki/My_Reading_List)
