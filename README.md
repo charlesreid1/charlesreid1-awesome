@@ -17,8 +17,8 @@ Charles Reid is awesome. Here's a list of some of his awesome stuff.
     - [Graphs](#wiki-graphs)
 	- [Mathematics](#wiki-mathematics)
 	- [Numerical Methods and Simulation](#wiki-numerical-methods)
+	- [Puzzles](#wiki-puzzles)
 	- [Hacking and Networking](#wiki-hacking)
-	- [Programming Tools](#wiki-tools)
 	- [MiniPwners](#wiki-minipwners)
 	- [Radio](#wiki-radio)
 
@@ -166,7 +166,7 @@ Docker:
 <a name="wiki-graphs"></a>
 ## Graphs
 
-* Notes on Graph Theory
+* Notes on [Graph Theory](https://charlesreid1.com/wiki/Template:GraphsFlag)
 	* [Graphs - First Theorem of Graph Theory](https://charlesreid1.com/wiki/First_Theorem_of_Graph_Theory) - the first theorem of graph theory is, you do not talk about graph theory...
     * [Graphs - Breadth-First Traversal](https://charlesreid1.com/wiki/BFT) - algorithms and code related to breadth-first traversal
     * [Graphs - Depth-First Traversal](https://charlesreid1.com/wiki/DFT) - algorithms and code related to depth-first traversal
@@ -190,7 +190,7 @@ Docker:
 <a name="wiki-mathematics"></a>
 ## Mathematics
 
-* Mathematical Constants (Most to 1,000 Digits):
+* Pages of Mathematical Constants (Most to 1,000 Digits):
 	* [Euler-Mascheroni Constant](https://charlesreid1.com/wiki/Euler-Mascheroni_Constant)
 	* [Sqrt 2](https://charlesreid1.com/wiki/Sqrt2)
 	* [Phi](https://charlesreid1.com/wiki/Phi)
@@ -247,30 +247,27 @@ Docker:
 *Notes on hacking tools, networking tools, and all-around security.*
 
 * [Stunnel](https://charlesreid1.com/wiki/Stunnel) - tool for creating SSH tunnels (useful for punching through firewalls)
-    * [Stunnel/Certificates](https://charlesreid1.com/wiki/Stunnel/Certificates)
-    * [Stunnel/Client](https://charlesreid1.com/wiki/Stunnel/Client)
-    * [Stunnel/Debugging](https://charlesreid1.com/wiki/Stunnel/Debugging)
-    * [Stunnel/Docker](https://charlesreid1.com/wiki/Stunnel/Docker)
-    * [Stunnel/HTTP](https://charlesreid1.com/wiki/Stunnel/HTTP)
-    * [Stunnel/Installing](https://charlesreid1.com/wiki/Stunnel/Installing)
-    * [Stunnel/Mac](https://charlesreid1.com/wiki/Stunnel/Mac)
-    * [Stunnel/OpenVPN](https://charlesreid1.com/wiki/Stunnel/OpenVPN)
-    * [Stunnel/Rsync](https://charlesreid1.com/wiki/Stunnel/Rsync)
-    * [Stunnel/Rsync 443](https://charlesreid1.com/wiki/Stunnel/Rsync_443)
-    * [Stunnel/SCP](https://charlesreid1.com/wiki/Stunnel/SCP)
-    * [Stunnel/SSH](https://charlesreid1.com/wiki/Stunnel/SSH)
-    * [Stunnel/Scp](https://charlesreid1.com/wiki/Stunnel/Scp)
-    * [Stunnel/Server](https://charlesreid1.com/wiki/Stunnel/Server)
-    * [Stunnel/Troubleshooting](https://charlesreid1.com/wiki/Stunnel/Troubleshooting)
+    * [Stunnel/Installing](https://charlesreid1.com/wiki/Stunnel/Installing) - installing stunnel
+    * [Stunnel/Certificates](https://charlesreid1.com/wiki/Stunnel/Certificates) - setting up SSL certificates for stunnel
+    * [Stunnel/Client](https://charlesreid1.com/wiki/Stunnel/Client) - running an stunnel client
+    * [Stunnel/Server](https://charlesreid1.com/wiki/Stunnel/Server) - running an stunnel server
+    * [Stunnel/Debugging](https://charlesreid1.com/wiki/Stunnel/Debugging) - techniques for debugging faulty stunnel connections
+    * [Stunnel/Troubleshooting](https://charlesreid1.com/wiki/Stunnel/Troubleshooting) - see above
+    * [Stunnel/Docker](https://charlesreid1.com/wiki/Stunnel/Docker) - how to set up a docker container to run an stunnel server
+    * [Stunnel/Rsync](https://charlesreid1.com/wiki/Stunnel/Rsync) - running rsync connections over stunnel
+    * [Stunnel/SCP](https://charlesreid1.com/wiki/Stunnel/SCP) - running scp connections over stunnel
+    * [Stunnel/SSH](https://charlesreid1.com/wiki/Stunnel/SSH) - running ssh connections over stunnel
+    * [Stunnel/Scp](https://charlesreid1.com/wiki/Stunnel/Scp) - running scp connections over stunnel
+    * [Stunnel/OpenVPN](https://charlesreid1.com/wiki/Stunnel/OpenVPN) - making stunnel work over a VPN connection
 
 * Networking
 	* [Tcpdump](https://charlesreid1.com/wiki/Tcpdump)
 
-* Wireless
+* [Metasploitable](https://charlesreid1.com/wiki/Template:MetasploitableFlag) - a vulnerable virtual machine for learning and practicing security tools
 
-* Man in the Middle attacks
+* [Wireless](https://charlesreid1.com/wiki/Category:Wireless)
 
-* Fuzzing
+* [Man in the Middle attacks](https://charlesreid1.com/wiki/Template:MITMFlag)
 
 * [Kali Linux](https://charlesreid1.com/wiki/Kali) - the ultimate security Linux distro
     * [Kali/Annoyances](https://charlesreid1.com/wiki/Kali/Annoyances)
@@ -315,7 +312,7 @@ Docker:
 	* [Technicolor C2100T](https://charlesreid1.com/wiki/Technicolor_C2100T)
 	* [Raspberry Pi](https://charesreid1.com/wiki/RasbperryPi)
 
-* [Docker](https://charlesreid1.com/wiki/Docker) - containerized system solutions
+* [Docker](https://charlesreid1.com/wiki/Docker) - containerized systems and virtualized operating systems (no hardware)
 	* [Docker/Basics](https://charlesreid1.com/wiki/Docker/Basics)
 	* [Docker/Boats](https://charlesreid1.com/wiki/Docker/Boats)
 	* [Docker/Boats/Wifi](https://charlesreid1.com/wiki/Docker/Boats/Wifi)
@@ -335,31 +332,39 @@ Docker:
 	* [Docker/UGR Wifi Boat](https://charlesreid1.com/wiki/Docker/UGR_Wifi_Boat)
 	* [Docker/Volumes](https://charlesreid1.com/wiki/Docker/Volumes)
 
-<a name="wiki-tools"></a>
-## Programming Tools
-
-*Notes on general programming tools and libraries.*
-
-
 <a name="wiki-minipwners"></a>
 ## MiniPwners
 
 *MiniPwners are tiny, pocket-sized computers that can be used as hacking devices.*
 
-* Raspberry Pi
+Widy:
+* [Widy](https://charlesreid1.com/wiki/Widy) - wireless TP-Link 3040 pocket router running OpenWrt
+    * [Widy/Access Point](https://charlesreid1.com/wiki/Widy/Access_Point) - turning a Widy pocket router into a (secure) wireless router access point
+    * [Widy/Access Point/SSH](https://charlesreid1.com/wiki/Widy/Access_Point/SSH) - Create a wireless network with the Widy, called OpenWrts. From machine A, connect to OpenWrts network. Obtain IP address 10.0.0.140. From machine B, connect to OpenWrts network. Obtain IP address 10.0.0.228. Create an active and working network connection between machine A and machine B.
+    * [Widy/Aircrack](https://charlesreid1.com/wiki/Widy/Aircrack) - installing and configuring the aircrack-ng suite to work on Widy
+    * [Widy/Bridging](https://charlesreid1.com/wiki/Widy/Bridging) - creating a bridge between network connections (wired and wireless)
+    * [Widy/Configuration](https://charlesreid1.com/wiki/Widy/Configuration) - how to use the web interface and command line interface to set configuration options for Widy
+    * [Widy/Installing](https://charlesreid1.com/wiki/Widy/Installing) - how to flash the router with the OpenWrt image
+    * [Widy/Post-Install](https://charlesreid1.com/wiki/Widy/Post-Install) - what to install and how, once you've flashed the router with the OpenWrt image
+    * [Widy/Redux](https://charlesreid1.com/wiki/Widy/Redux) - getting Widy up and running 
+    * [Widy/Scapy](https://charlesreid1.com/wiki/Widy/Scapy) - installing Scapy (to manipulate packets via Python) on Widy
+    * [Widy/Serial](https://charlesreid1.com/wiki/Widy/Serial) - connecting to Widy over serial connection (requires soldering and disassembly)
+    * [Widy/Startup Services](https://charlesreid1.com/wiki/Widy/Startup_Services) - setting startup services to run on boot when Widy is started
+    * [Widy/Tcpdump](https://charlesreid1.com/wiki/Widy/Tcpdump) - installing tcpdump (to dump network traffic) on Widy
+    * [Widy/Toolbox](https://charlesreid1.com/wiki/Widy/Toolbox) - installing various tools (tcpdump, aircrack, scapy, stunnel, etc.) on Widy
+    * [Widy/Tricks](https://charlesreid1.com/wiki/Widy/Tricks) - how to use the Widy pocket router
 
-* [Kali Raspberry Pi](https://charlesreid1.com/wiki/Kali_Raspberry_Pi)
-    * [Kali Raspberry Pi/Headless](https://charlesreid1.com/wiki/Kali_Raspberry_Pi/Headless)
-    * [Kali Raspberry Pi/Headless SSH Problem](https://charlesreid1.com/wiki/Kali_Raspberry_Pi/Headless_SSH_Problem)
-    * [Kali Raspberry Pi/Headless Walkthrough](https://charlesreid1.com/wiki/Kali_Raspberry_Pi/Headless_Walkthrough)
-    * [Kali Raspberry Pi/Installing](https://charlesreid1.com/wiki/Kali_Raspberry_Pi/Installing)
-    * [Kali Raspberry Pi/Installing Version 1](https://charlesreid1.com/wiki/Kali_Raspberry_Pi/Installing_Version_1)
-    * [Kali Raspberry Pi/Post-Install](https://charlesreid1.com/wiki/Kali_Raspberry_Pi/Post-Install)
-    * [Kali Raspberry Pi/SD Card](https://charlesreid1.com/wiki/Kali_Raspberry_Pi/SD_Card)
-    * [Kali Raspberry Pi/SSH](https://charlesreid1.com/wiki/Kali_Raspberry_Pi/SSH)
-    * [Kali Raspberry Pi/Startup Services](https://charlesreid1.com/wiki/Kali_Raspberry_Pi/Startup_Services)
-    * [Kali Raspberry Pi/Tcpdump](https://charlesreid1.com/wiki/Kali_Raspberry_Pi/Tcpdump)
-    * [Kali Raspberry Pi/WirelessRouter](https://charlesreid1.com/wiki/Kali_Raspberry_Pi/WirelessRouter)
+Raspberry Pi:
+* [Kali Raspberry Pi](https://charlesreid1.com/wiki/Kali_Raspberry_Pi) - installing Kali Linux on a Raspberry Pi
+    * [Kali Raspberry Pi/Headless](https://charlesreid1.com/wiki/Kali_Raspberry_Pi/Headless) - connecting to a headless installation of Kali Linux running on a Raspberry Pi
+    * [Kali Raspberry Pi/Headless Walkthrough](https://charlesreid1.com/wiki/Kali_Raspberry_Pi/Headless_Walkthrough) - A step-by-step walkthrough of connecting to a headless Raspberry Pi running Kali 2.0 via a crossover cable. 
+    * [Kali Raspberry Pi/Installing](https://charlesreid1.com/wiki/Kali_Raspberry_Pi/Installing) - installing Kali Linux on a Raspberry Pi using an SD card
+    * [Kali Raspberry Pi/Post-Install](https://charlesreid1.com/wiki/Kali_Raspberry_Pi/Post-Install) - procedure after you install Kali Linux on the Raspberry Pi (MUST DO!!! ABSOLUTELY NECESSARY!!!)
+    * [Kali Raspberry Pi/SD Card](https://charlesreid1.com/wiki/Kali_Raspberry_Pi/SD_Card) - the Kali Linux SD card
+    * [Kali Raspberry Pi/SSH](https://charlesreid1.com/wiki/Kali_Raspberry_Pi/SSH) - setting SSH configuration settings on Raspberry Pi post-install and on boot
+    * [Kali Raspberry Pi/Startup Services](https://charlesreid1.com/wiki/Kali_Raspberry_Pi/Startup_Services) - setting startup services to run on boot in Raspberry Pi running Kali Linux
+    * [Kali Raspberry Pi/Tcpdump](https://charlesreid1.com/wiki/Kali_Raspberry_Pi/Tcpdump) - using tcpdump to turn the Raspberry Pi into a network tap
+    * [Kali Raspberry Pi/WirelessRouter](https://charlesreid1.com/wiki/Kali_Raspberry_Pi/WirelessRouter) - turning the Raspberry Pi into a wireless router using hostapd
 
 
 
@@ -368,12 +373,12 @@ Docker:
 
 *Notes related to ham radio and software defined radio.*
 
-* Ham Radio
+* [Ham Radio](https://charlesreid1.com/wiki/Template:RadioFlag)
 	* [General](https://charlesreid1.com/wiki/General) - Notes from studying for general class ham license.
 	* [Radio/Digital Modes](https://charlesreid1.com/wiki/Radio/Digital_Modes) - digital modes for ham radio.
 	* [SSTV](https://charlesreid1.com/wiki/SSTV) - Slow scan TV
 
-* SDR
+* [SDR](https://charlesreid1.com/wiki/Template:SDRFlag)
 	* [SDR](https://charlesreid1.com/wiki/SDR) - Software defined radio 
 	* [Fldigi](https://charlesreid1.com/wiki/Fldigi) - Polyglot package for digital modes
 	* [Flmsg](https://charlesreid1.com/wiki/Flmsg) - Backend for fldigi
@@ -487,8 +492,6 @@ Compiled list of book notes from the Charlesreid1 wiki:
 [Marching Tides](https://open.spotify.com/user/charlesreid1/playlist/5z2t5kevr9y9JdNbK10YPI)
 
 [Pass The May-O](https://open.spotify.com/user/charlesreid1/playlist/7zymxKvkowIfzMAhD7rQR2)
-
-[phat](https://open.spotify.com/user/charlesreid1/playlist/7kZXQiv7NJRFdI2WeD26ZZ)
 
 [Hotline Miami](https://open.spotify.com/user/charlesreid1/playlist/39LJClYwUurKDapZGegZzk)
 
