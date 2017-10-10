@@ -2,16 +2,6 @@
 
 Charles Reid is awesome. Here's a list of some of his awesome stuff.
 
-- [Charlesreid1.com Wiki](#wiki)
-    - [Software Engineering](#wiki-software-engineering)
-    - [Graphs](#wiki-graphs)
-	- [Mathematics](#wiki-mathematics)
-	- [Numerical Methods and Simulation](#wiki-numerical-methods)
-	- [Hacking and Networking](#wiki-hacking)
-	- [Programming Tools](#wiki-tools)
-	- [MiniPwners](#wiki-minipwners)
-	- [Radio](#wiki-radio)
-
 - [Github Blog](#blog)
 
 - [Code](#code)
@@ -21,6 +11,16 @@ Charles Reid is awesome. Here's a list of some of his awesome stuff.
 		- [Docker](#code-git-docker)
 		- [Kali](#code-git-kali)
 		- [Computer Science](#code-git-cs)
+
+- [Charlesreid1.com Wiki](#wiki)
+    - [Software Engineering](#wiki-software-engineering)
+    - [Graphs](#wiki-graphs)
+	- [Mathematics](#wiki-mathematics)
+	- [Numerical Methods and Simulation](#wiki-numerical-methods)
+	- [Hacking and Networking](#wiki-hacking)
+	- [Programming Tools](#wiki-tools)
+	- [MiniPwners](#wiki-minipwners)
+	- [Radio](#wiki-radio)
 
 - [Twitter Bots](#bots)
 	- [Apollo Space Junk Bot FLock](#bots-apollo)
@@ -33,13 +33,115 @@ Charles Reid is awesome. Here's a list of some of his awesome stuff.
 
 - [Jams](#jams)
 
-<br />
-<br />
 
-- - -
+
 
 <br />
 <br />
+
+- - - - 
+
+<br />
+<br />
+
+
+
+
+<a name="blog"></a>
+# Github Blog 
+
+*Blog for miscellaneous research and teaching notes and writeups.*
+
+[charlesreid1.github.io](https://charlesreid1.github.io/) 
+
+
+<br />
+<br />
+
+
+<a name="code"></a>
+# Code
+
+<a name="code-github"></a>
+## @charlesreid1 on Github
+
+I am user [@charlesreid1](https://github.com/charlesreid1) on Github.
+
+I also maintain the [@data-engineering-scenarios](https://github.com/data-engineering-scenarios)
+organization on Github, which illustrates the implementation of various data engineering pipelines.
+
+<a name="code-git"></a>
+## git.charlesreid1.com
+
+*Self-hosted Github clone (gitea) at [git.charlesreid1.com](https://charlesreid1.com:3000).*
+
+More info about gitea, a Go-based Github clone:
+* [Blog post on gitea](https://charlesreid1.github.io/setting-up-a-self-hosted-github-clone-with-gitea.html)
+* [Charlesreid1 wiki page on gitea](https://charlesreid1.com/wiki/Gitea)
+
+Repositories:
+* [flight-aware](https://charlesreid1.com:3000/charlesreid1/flight-aware) - Installation script for FlightAware USB stick, and other related notes/software/scripts.
+* [nosecleaner](https://charlesreid1.com:3000/charlesreid1/nosecleaner) - A suite of tools for wireless security, OSI Levels 1 and 2.
+* [code-jam](https://charlesreid1.com:3000/charlesreid1/code-jam) - Solutions to programming problems from Google Code Jam.
+* [icpc](https://charlesreid1.com:3000/charlesreid1/icpc) - Solutions to programming problems from the International Competitive Programming Competition World Finals.
+* [lfw_fuel](https://charlesreid1.com:3000/charlesreid1/lfw_fuel) - Labeled Faces in the Wild dataset, converted to fuel.
+* [tsp](https://charlesreid1.com:3000/charlesreid1/tsp) -  Solve, time, and profile programs solving the traveling salesperson problem in various languages. Solution relies on use of graph object.
+* [openvpn](https://charlesreid1.com:3000/charlesreid1/openvpn) - OpenVPN server configuration files.
+* [n-queens](https://charlesreid1.com:3000/charlesreid1/n-queens) - Solve, time, and profile programs solving the N queens problem in various languages. Solution relies on built-in integer array types.
+* [yargwid](https://charlesreid1.com:3000/charlesreid1/yargwid) - Yet Another Repository in Git with Dotfiles.
+* [hello-world](https://charlesreid1.com:3000/charlesreid1/hello-world) -  Simple "hello world"-style template programs. These will get you started writing programs in various languages.
+* [hello-data-structures](https://charlesreid1.com:3000/charlesreid1/hello-data-structures) - Some "hello world"-style data structure objects. Helps with inane tech interview questions and/or teaching computer science - whichever comes first.
+* [hello-oop](https://charlesreid1.com:3000/charlesreid1/hello-oop) - Some "hello world"-style object oriented programs. These will get you started writing object oriented programs in various languages.
+* [dang-streamgraph](https://charlesreid1.com:3000/charlesreid1/dang-streamgraph) - D3 + Angular + Pelican for visualizing data using streamgraphs.
+* [cyborg-pelican](https://charlesreid1.com:3000/charlesreid1/cyborg-pelican) - My first Python Pelican repository.
+* [mnemonia](https://charlesreid1.com:3000/charlesreid1/mnemonia) - Repository containing mnemonics I have known, used, and loved.
+* [java-packet-sniffer](https://charlesreid1.com:3000/charlesreid1/java-packet-sniffer) - A Java packet sniffer that uses jNetPcap to sniff packets and examine headers.
+* [pantera](https://charlesreid1.com:3000/charlesreid1/pantera) - A toolset for using and extending Cantera in Python.
+* [atom-hammer-theme](https://charlesreid1.com:3000/charlesreid1/atom-hammer-theme) - A Pelican theme for the Asmodeus project (https://github.com/charlesreid1/asmodeus)
+* [kenwood-ts570s](https://charlesreid1.com:3000/charlesreid1/kenwood-ts570s) - Scripts for interfacing with a Kenwood TS-570S radio via serial.
+* [magic-johnson](https://charlesreid1.com:3000/charlesreid1/magic-johnson) - This is a robot that scrapes the web for mp3s, turns them into videos, and uploads them to YouTube.
+* [michael-morse](https://charlesreid1.com:3000/charlesreid1/michael-morse) - A simple time-based morse code library in Python, written for Raspberry Pi applications.
+* [tony-gwynn](https://charlesreid1.com:3000/charlesreid1/tony-gwynn) - A robot that creates a Twilio menu to play audio files.
+* [john-stockton](https://charlesreid1.com:3000/charlesreid1/john-stockton) - A robot that scrapes MP3s from a website, and transcribes them using the Google Text-to-Speech API.
+* [archimedes-pelican](https://charlesreid1.com:3000/charlesreid1/archimedes-pelican) - Pages using Angular.js MVC to serve D3.js visualizations, with files managed by Python Pelican.
+
+### Raspberry Pi repositories
+
+*Repositories containing scripts for Raspberry Pis from the 2015-2016 undergraduate reserach project
+at South Seattle College, which focused on collecting and analyzing wifi data from wireless sensor networks.*
+
+[@rpi on git.charlesreid1.com](https://charlesreid1.com:3000/rpi)
+
+Raspberry Pi repositories:
+* [pi-aircrack-batch](https://charlesreid1.com:3000/rpi/pi-aircrack-batch) - Put a wifi device into monitor mode and use aircrack to dump CSV files at specified intervals.
+* [pi-process-wifi-data](https://charlesreid1.com:3000/rpi/pi-process-wifi-data) - Scripts for processing directories full of aircrack data from Raspberry Pis, extracting AP and client data, and populating a MongoDB document collection with the results.
+* [pi-stunnel](https://charlesreid1.com:3000/rpi/pi-stunnel) - Raspberry Pi stunnel client configuration files.
+* [pi-startup-services](https://charlesreid1.com:3000/rpi/pi-startup-services) - Info and scripts for setting startup services on the raspberry pi.
+* [pi-setup](https://charlesreid1.com:3000/rpi/pi-setup) - Setup for Raspberry Pi computers.
+* [pi-transmission](https://charlesreid1.com:3000/rpi/pi-transmission) - Scripts for transmission of data from Raspberry Pi to external server, via rsync and/or scp.
+* [pi-join-wifi](https://charlesreid1.com:3000/rpi/pi-join-wifi) - Scripts to help Raspberry Pis join wifi networks.
+
+### Docker repositories
+
+*Repositories containing scripts and Dockerfiles for various Docker containers.* 
+
+[@docker on git.charlesreid1.com](https://charlesreid1.com:3000/docker)
+
+Docker:
+* [d-deep-learning](https://charlesreid1.com:3000/docker/d-deep-learning) - Files for the Docker Deep Learning pod. See https://charlesreid1.com/wiki/Docker/Pods/Deep_Learning for details.
+* [d-oui](https://charlesreid1.com:3000/docker/d-oui) - A Docker container to wrap the IEEE OUI lookup table. See https://charlesreid1.com/wiki/OUI for more information and script. See http://standards-oui.ieee.org/oui.txt for raw data.
+* [d-jupyter](https://charlesreid1.com:3000/docker/d-jupyter) - Files for creating a Jupyter notebook docker container.
+* [d-stunnel](https://charlesreid1.com:3000/docker/d-stunnel) - Dockerfile to build an stunnel docker container.
+* [d-mongodb](https://charlesreid1.com:3000/docker/d-mongodb) - Files for building MongoDB docker container.
+* [d-mongoexpress](https://charlesreid1.com:3000/docker/d-mongoexpress) - Dockerfiles for building a Mongo Express container. See https://github.com/mongo-express/mongo-express
+* [d-rsync](https://charlesreid1.com:3000/docker/d-rsync) - Docker container running an rsync daemon to listen for rsync requests. 
+
+
+
+<br />
+<br />
+
+
 
 <a name="wiki"></a>
 # Charlesreid1.com Wiki
@@ -265,104 +367,12 @@ Charles Reid is awesome. Here's a list of some of his awesome stuff.
 <br />
 <br />
 
-<a name="blog"></a>
-# Github Blog 
-
-*Blog for miscellaneous research and teaching notes and writeups.*
-
-[charlesreid1.github.io](https://charlesreid1.github.io/) 
-
-
-<br />
-<br />
-
-
-<a name="code"></a>
-# Code
-
-<a name="code-github"></a>
-## @charlesreid1 on Github
-
-*I am user [@charlesreid1](https://github.com/charlesreid1) on Github.*
-
-
-<a name="code-git"></a>
-## git.charlesreid1.com
-
-*Self-hosted Github clone (gitea) at [git.charlesreid1.com](https://charlesreid1.com:3000).*
-
-More info about gitea, a Go-based Github clone:
-* [Blog post on gitea](https://charlesreid1.github.io/setting-up-a-self-hosted-github-clone-with-gitea.html)
-* [Charlesreid1 wiki page on gitea](https://charlesreid1.com/wiki/Gitea)
-
-Repositories:
-* [flight-aware](https://charlesreid1.com:3000/charlesreid1/flight-aware) - Installation script for FlightAware USB stick, and other related notes/software/scripts.
-* [nosecleaner](https://charlesreid1.com:3000/charlesreid1/nosecleaner) - A suite of tools for wireless security, OSI Levels 1 and 2.
-* [code-jam](https://charlesreid1.com:3000/charlesreid1/code-jam) - Solutions to programming problems from Google Code Jam.
-* [icpc](https://charlesreid1.com:3000/charlesreid1/icpc) - Solutions to programming problems from the International Competitive Programming Competition World Finals.
-* [lfw_fuel](https://charlesreid1.com:3000/charlesreid1/lfw_fuel) - Labeled Faces in the Wild dataset, converted to fuel.
-* [tsp](https://charlesreid1.com:3000/charlesreid1/tsp) -  Solve, time, and profile programs solving the traveling salesperson problem in various languages. Solution relies on use of graph object.
-* [openvpn](https://charlesreid1.com:3000/charlesreid1/openvpn) - OpenVPN server configuration files.
-* [n-queens](https://charlesreid1.com:3000/charlesreid1/n-queens) - Solve, time, and profile programs solving the N queens problem in various languages. Solution relies on built-in integer array types.
-* [yargwid](https://charlesreid1.com:3000/charlesreid1/yargwid) - Yet Another Repository in Git with Dotfiles.
-* [hello-world](https://charlesreid1.com:3000/charlesreid1/hello-world) -  Simple "hello world"-style template programs. These will get you started writing programs in various languages.
-* [hello-data-structures](https://charlesreid1.com:3000/charlesreid1/hello-data-structures) - Some "hello world"-style data structure objects. Helps with inane tech interview questions and/or teaching computer science - whichever comes first.
-* [hello-oop](https://charlesreid1.com:3000/charlesreid1/hello-oop) - Some "hello world"-style object oriented programs. These will get you started writing object oriented programs in various languages.
-* [dang-streamgraph](https://charlesreid1.com:3000/charlesreid1/dang-streamgraph) - D3 + Angular + Pelican for visualizing data using streamgraphs.
-* [cyborg-pelican](https://charlesreid1.com:3000/charlesreid1/cyborg-pelican) - My first Python Pelican repository.
-* [mnemonia](https://charlesreid1.com:3000/charlesreid1/mnemonia) - Repository containing mnemonics I have known, used, and loved.
-* [java-packet-sniffer](https://charlesreid1.com:3000/charlesreid1/java-packet-sniffer) - A Java packet sniffer that uses jNetPcap to sniff packets and examine headers.
-* [pantera](https://charlesreid1.com:3000/charlesreid1/pantera) - A toolset for using and extending Cantera in Python.
-* [atom-hammer-theme](https://charlesreid1.com:3000/charlesreid1/atom-hammer-theme) - A Pelican theme for the Asmodeus project (https://github.com/charlesreid1/asmodeus)
-* [kenwood-ts570s](https://charlesreid1.com:3000/charlesreid1/kenwood-ts570s) - Scripts for interfacing with a Kenwood TS-570S radio via serial.
-* [magic-johnson](https://charlesreid1.com:3000/charlesreid1/magic-johnson) - This is a robot that scrapes the web for mp3s, turns them into videos, and uploads them to YouTube.
-* [michael-morse](https://charlesreid1.com:3000/charlesreid1/michael-morse) - A simple time-based morse code library in Python, written for Raspberry Pi applications.
-* [tony-gwynn](https://charlesreid1.com:3000/charlesreid1/tony-gwynn) - A robot that creates a Twilio menu to play audio files.
-* [john-stockton](https://charlesreid1.com:3000/charlesreid1/john-stockton) - A robot that scrapes MP3s from a website, and transcribes them using the Google Text-to-Speech API.
-* [archimedes-pelican](https://charlesreid1.com:3000/charlesreid1/archimedes-pelican) - Pages using Angular.js MVC to serve D3.js visualizations, with files managed by Python Pelican.
-
-### Raspberry Pi repositories
-
-*Repositories containing scripts for Raspberry Pis from the 2015-2016 undergraduate reserach project
-at South Seattle College, which focused on collecting and analyzing wifi data from wireless sensor networks.*
-
-[@rpi on git.charlesreid1.com](https://charlesreid1.com:3000/rpi)
-
-Raspberry Pi repositories:
-* [pi-aircrack-batch](https://charlesreid1.com:3000/rpi/pi-aircrack-batch) - Put a wifi device into monitor mode and use aircrack to dump CSV files at specified intervals.
-* [pi-process-wifi-data](https://charlesreid1.com:3000/rpi/pi-process-wifi-data) - Scripts for processing directories full of aircrack data from Raspberry Pis, extracting AP and client data, and populating a MongoDB document collection with the results.
-* [pi-stunnel](https://charlesreid1.com:3000/rpi/pi-stunnel) - Raspberry Pi stunnel client configuration files.
-* [pi-startup-services](https://charlesreid1.com:3000/rpi/pi-startup-services) - Info and scripts for setting startup services on the raspberry pi.
-* [pi-setup](https://charlesreid1.com:3000/rpi/pi-setup) - Setup for Raspberry Pi computers.
-* [pi-transmission](https://charlesreid1.com:3000/rpi/pi-transmission) - Scripts for transmission of data from Raspberry Pi to external server, via rsync and/or scp.
-* [pi-join-wifi](https://charlesreid1.com:3000/rpi/pi-join-wifi) - Scripts to help Raspberry Pis join wifi networks.
-
-### Docker repositories
-
-*Repositories containing scripts and Dockerfiles for various Docker containers.* 
-
-[@docker on git.charlesreid1.com](https://charlesreid1.com:3000/docker)
-
-Docker:
-* [d-deep-learning](https://charlesreid1.com:3000/docker/d-deep-learning) - Files for the Docker Deep Learning pod. See https://charlesreid1.com/wiki/Docker/Pods/Deep_Learning for details.
-* [d-oui](https://charlesreid1.com:3000/docker/d-oui) - A Docker container to wrap the IEEE OUI lookup table. See https://charlesreid1.com/wiki/OUI for more information and script. See http://standards-oui.ieee.org/oui.txt for raw data.
-* [d-jupyter](https://charlesreid1.com:3000/docker/d-jupyter) - Files for creating a Jupyter notebook docker container.
-* [d-stunnel](https://charlesreid1.com:3000/docker/d-stunnel) - Dockerfile to build an stunnel docker container.
-* [d-mongodb](https://charlesreid1.com:3000/docker/d-mongodb) - Files for building MongoDB docker container.
-* [d-mongoexpress](https://charlesreid1.com:3000/docker/d-mongoexpress) - Dockerfiles for building a Mongo Express container. See https://github.com/mongo-express/mongo-express
-* [d-rsync](https://charlesreid1.com:3000/docker/d-rsync) - Docker container running an rsync daemon to listen for rsync requests. 
-
-
-<br />
-<br />
 
 
 <a name="bots"></a>
 # Twitter bots
 
 *Twitter bot flocks.*
-
-TODO
 
 <a name="bots-apollo"></a>
 ## Apollo Space Junk Bot Flock
@@ -462,4 +472,16 @@ Compiled list of book notes from the Charlesreid1 wiki:
 [Pass The May-O](https://open.spotify.com/user/charlesreid1/playlist/7zymxKvkowIfzMAhD7rQR2)
 
 [phat](https://open.spotify.com/user/charlesreid1/playlist/7kZXQiv7NJRFdI2WeD26ZZ)
+
+[Hotline Miami](https://open.spotify.com/user/charlesreid1/playlist/39LJClYwUurKDapZGegZzk)
+
+[Sprite Fryer](https://open.spotify.com/user/charlesreid1/playlist/6BLabGrC3LzncJdKxhR55X)
+
+[Fright Nighter](https://open.spotify.com/user/charlesreid1/playlist/05IyLBnDzDWGrcaFqIGGya)
+
+[Right Spryder](https://open.spotify.com/user/charlesreid1/playlist/7b4GHIOOv3QnTQuaRBp9Y9)
+
+[Knight Ryder](https://open.spotify.com/user/charlesreid1/playlist/1BM8xhYmQ5YU067gckZOXl)
+
+[Might Fighter](https://open.spotify.com/user/charlesreid1/playlist/3fbbS9fhC6zZxtrxX6EX79)
 
