@@ -167,8 +167,25 @@ Docker:
 ## Graphs
 
 * Notes on Graph Theory
-	* [First Theorem of Graph Theory](https://charlesreid1.com/wiki/First_Theorem_of_Graph_Theory) - the first theorem of graph theory is, you do not talk about graph theory...
-	* []()
+	* [Graphs - First Theorem of Graph Theory](https://charlesreid1.com/wiki/First_Theorem_of_Graph_Theory) - the first theorem of graph theory is, you do not talk about graph theory...
+    * [Graphs - Breadth-First Traversal](https://charlesreid1.com/wiki/BFT) - algorithms and code related to breadth-first traversal
+    * [Graphs - Depth-First Traversal](https://charlesreid1.com/wiki/DFT) - algorithms and code related to depth-first traversal
+    * [Graphs - Directed Acyclic Graphs](https://charlesreid1.com/wiki/DAGs) - directed acyclic graphs (graphs that are trees)
+    * [Graphs - Abstract Data Type](https://charlesreid1.com/wiki/Graphs/ADT) - graph abstract data types
+    * [Graphs - Connectivity](https://charlesreid1.com/wiki/Graphs/Connectivity) - computing connectivity of a graph
+    * [Graphs - Cycles](https://charlesreid1.com/wiki/Graphs/Cycles) - finding cycles in a graph
+    * [Graphs - Data Structures](https://charlesreid1.com/wiki/Graphs/Data_Structures) - data structures for storing graphs
+    * [Graphs - Definitions](https://charlesreid1.com/wiki/Graphs/Definitions) - definitions related to graphs
+    * [Graphs - Dijkstra](https://charlesreid1.com/wiki/Graphs/Dijkstra) - Dijkstra's depth-first search algorithm
+    * [Graphs - Euler Tour](https://charlesreid1.com/wiki/Graphs/Euler_Tour) - implementations of an Euler Tour on a graph
+    * [Graphs - Floyd Warshall](https://charlesreid1.com/wiki/Graphs/Floyd_Warshall) - page on the Floyd Warshall algorithm
+    * [Graphs - Guava](https://charlesreid1.com/wiki/Graphs/Guava) - implementing graphs using Google's Guava library
+    * [Graphs - Java Adjacency Map](https://charlesreid1.com/wiki/Graphs/Java/Adjacency_Map) - implementation of graphs using the adjacency map data structure
+    * [Graphs - Matching](https://charlesreid1.com/wiki/Graphs/Matching) - matching algorithms on a graph
+    * [Graphs - Shortest Path](https://charlesreid1/Graphs/Shortest_Path) - finding the shortest path from one vertex to another on a graph
+    * [Graphs - Transitive Closure](https://charlesreid1.com/wiki/Graphs/Transitive_Closure) - finding the transitive closure of a graph (another graph that replaces a connection between two vertices with an edge between those vertices)
+    * [Graphs - Traversal](https://charlesreid1.com/wiki/Graphs/Traversals) - algorithms, implementations, links, and code related to traversal of graphs
+
 
 <a name="wiki-mathematics"></a>
 ## Mathematics
