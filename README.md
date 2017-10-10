@@ -2,8 +2,6 @@
 
 Charles Reid is awesome. Here's a list of some of his awesome stuff.
 
-- [Github Blog](#blog)
-
 - [Code](#code)
     - [@charlesreid1 on Github](#code-github)
     - [git.charlesreid1.com](#code-git)
@@ -11,6 +9,8 @@ Charles Reid is awesome. Here's a list of some of his awesome stuff.
 		- [Docker](#code-git-docker)
 		- [Kali](#code-git-kali)
 		- [Computer Science](#code-git-cs)
+
+- [Github Blog](#blog)
 
 - [Charlesreid1.com Wiki](#wiki)
     - [Software Engineering](#wiki-software-engineering)
@@ -45,18 +45,6 @@ Charles Reid is awesome. Here's a list of some of his awesome stuff.
 <br />
 
 
-
-
-<a name="blog"></a>
-# Github Blog 
-
-*Blog for miscellaneous research and teaching notes and writeups.*
-
-[charlesreid1.github.io](https://charlesreid1.github.io/) 
-
-
-<br />
-<br />
 
 
 <a name="code"></a>
@@ -141,6 +129,18 @@ Docker:
 <br />
 <br />
 
+
+
+<a name="blog"></a>
+# Github Blog 
+
+*Blog for miscellaneous research and teaching notes and writeups.*
+
+[charlesreid1.github.io](https://charlesreid1.github.io/) 
+
+
+<br />
+<br />
 
 
 <a name="wiki"></a>
