@@ -151,7 +151,7 @@ Docker:
 
 * [Art of Computer Programming](https://charlesreid1.com/wiki/Category:ACOP)
 
-* [Data Structures](https://charelsreid1.com/wiki/Study_Guides)
+* [Data Structures](https://charlesreid1.com/wiki/Study_Guides)
 
 * Programming Problems and Puzzles:
 	* [Traveling Salesperson Problem](https://charlesreid1.com/wiki/Traveling_Salesperson_Problem)
@@ -277,7 +277,6 @@ Docker:
     * [Kali/Custom ARM Image](https://charlesreid1.com/wiki/Kali/Custom_ARM_Image)
     * [Kali/Dual Boot OS X](https://charlesreid1.com/wiki/Kali/Dual_Boot_OS_X)
     * [Kali/Fixes](https://charlesreid1.com/wiki/Kali/Fixes)
-    * [Kali/Git/WifiListen](https://charlesreid1.com/wiki/Kali/Git/WifiListen)
     * [Kali/HackRF](https://charlesreid1.com/wiki/Kali/HackRF)
     * [Kali/Installing](https://charlesreid1.com/wiki/Kali/Installing)
     * [Kali/Layer 1 Attacks](https://charlesreid1.com/wiki/Kali/Layer_1_Attacks)
