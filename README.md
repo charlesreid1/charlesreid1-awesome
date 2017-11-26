@@ -1,6 +1,6 @@
 # charlesreid1-awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Charles Reid is awesome. Here's a list of some of his awesome stuff.
+I am awesome. Here's a list of my awesome stuff.
 
 - [Code](#code)
     - [@charlesreid1 on Github](#code-github)
