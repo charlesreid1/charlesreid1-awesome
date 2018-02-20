@@ -217,7 +217,7 @@ Docker:
 
 * Big Numbers:
 	* [3 Tetrated](https://charlesreid1.com/wiki/3_Tetrated) - a really big number.
-	* [4 Tetrated](https://charlesreid1.com/wiki/3_Tetrated) - a really, really big number.
+	* [4 Tetrated](https://charlesreid1.com/wiki/4_Tetrated) - a really, really big number.
 	* [Tetration](https://charlesreid1.com/wiki/Tetration) - an operation to compactly write extremely large numbers
 	* [Shannon Number](https://charlesreid1.com/wiki/Shannon_Number) - estimate of number of possible chess game outcomes (via Claude Shannon)
 	* [Eddington Number](https://charlesreid1.com/wiki/Eddington_Number) - estimate of number of protons in the known universe (via Arthur Eddington)
