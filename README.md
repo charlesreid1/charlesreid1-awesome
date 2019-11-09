@@ -2,37 +2,29 @@
 
 I am awesome. Here is a list of my awesome stuff.
 
-- [Code](#code)
-    - [@charlesreid1 on Github](#code-github)
-    - [git.charlesreid1.com](#code-git)
-		- [Raspberry Pi](#code-git-rpi)
-		- [Docker](#code-git-docker)
-		- [Kali](#code-git-kali)
-		- [Computer Science](#code-git-cs)
-
-- [Github Blog](#blog)
-
-- [Charlesreid1.com Wiki](#wiki)
-    - [Software Engineering](#wiki-software-engineering)
-    - [Graphs](#wiki-graphs)
-	- [Mathematics](#wiki-mathematics)
-	- [Numerical Methods and Simulation](#wiki-numerical-methods)
-	- [Puzzles](#wiki-puzzles)
-	- [Hacking and Networking](#wiki-hacking)
-	- [MiniPwners](#wiki-minipwners)
-	- [Radio](#wiki-radio)
-
-- [Twitter Bots](#bots)
-	- [Apollo Space Junk Bot FLock](#bots-apollo)
-	- [Paradise Lost Bot Flock](#bots-milton)
-	- [Ginsberg Bot Flock](#bots-ginsberg)
-	- [This Is Watergate Bot (inactive)](#bots-watergate)
-	- [Code](#bots-code)
-
-- [Books and Literature](#lit)
-
-- [Jams](#jams)
-
+* [Code](#code)
+    * [@charlesreid1 on Github](#charlesreid1-on-github)
+    * [git\.charlesreid1\.com](#gitcharlesreid1com)
+        * [Raspberry Pi repositories](#raspberry-pi-repositories)
+        * [Docker repositories](#docker-repositories)
+* [Github Blog](#github-blog)
+* [Charlesreid1\.com Wiki](#charlesreid1com-wiki)
+    * [Software Engineering](#software-engineering)
+    * [Graphs](#graphs)
+    * [Mathematics](#mathematics)
+    * [Numerical Methods and Simulation](#numerical-methods-and-simulation)
+    * [Puzzles](#puzzles)
+    * [Hacking and Networking](#hacking-and-networking)
+    * [MiniPwners](#minipwners)
+    * [Radio](#radio)
+* [Twitter bots](#twitter-bots)
+    * [Apollo Space Junk Bot Flock](#apollo-space-junk-bot-flock)
+    * [Paradise Lost Bot Flock](#paradise-lost-bot-flock)
+    * [Ginsberg Bot Flock](#ginsberg-bot-flock)
+    * [This Is Watergate Bot](#this-is-watergate-bot)
+    * [Code](#code-1)
+* [Reading](#reading)
+* [Jams](#jams)
 
 
 
