@@ -47,6 +47,8 @@ I am awesome. Here is a list of my awesome stuff.
 
 I am user [@charlesreid1](https://github.com/charlesreid1) on Github.
 
+These cards are for some of my (own) favorite GitHub repos:
+
 [![charlesreid1/five-letter-words](https://github-readme-stats.vercel.app/api/pin/?username=charlesreid1&repo=five-letter-words&show_owner=true&theme=tokyonight)]()
 
 [![charlesreid1/in-your-face](https://github-readme-stats.vercel.app/api/pin/?username=charlesreid1&repo=in-your-face&show_owner=true&theme=tokyonight)]()
@@ -74,8 +76,6 @@ I am user [@charlesreid1](https://github.com/charlesreid1) on Github.
 [![rainbow-mind-machine/rainbow-mind-machine](https://github-readme-stats.vercel.app/api/pin/?username=rainbow-mind-machine&repo=rainbow-mind-machine&show_owner=true&theme=tokyonight)]()
 
 [![rainbow-mind-machine/embarcadero-mind-machine](https://github-readme-stats.vercel.app/api/pin/?username=rainbow-mind-machine&repo=embarcadero-mind-machine&show_owner=true&theme=tokyonight)]()
-
-[![rainbow-mind-machine/cheeseburger-mind-machine](https://github-readme-stats.vercel.app/api/pin/?username=rainbow-mind-machine&repo=cheeseburger-mind-machine&show_owner=true&theme=tokyonight)]()
 
 [![rainbow-mind-machine/boring-mind-machine](https://github-readme-stats.vercel.app/api/pin/?username=rainbow-mind-machine&repo=boring-mind-machine&show_owner=true&theme=tokyonight)]()
 
