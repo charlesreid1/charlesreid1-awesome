@@ -47,8 +47,40 @@ I am awesome. Here is a list of my awesome stuff.
 
 I am user [@charlesreid1](https://github.com/charlesreid1) on Github.
 
-I also maintain the [@data-engineering-scenarios](https://github.com/data-engineering-scenarios)
-organization on Github, which illustrates the implementation of various data engineering pipelines.
+These cards are for some of my (own) favorite GitHub repos:
+
+[![charlesreid1/five-letter-words](https://github-readme-stats.vercel.app/api/pin/?username=charlesreid1&repo=five-letter-words&show_owner=true&theme=tokyonight)](https://github.com/charlesreid1/five-letter-words)
+
+[![charlesreid1/in-your-face](https://github-readme-stats.vercel.app/api/pin/?username=charlesreid1&repo=in-your-face&show_owner=true&theme=tokyonight)](https://github.com/charlesreid1/in-your-face)
+
+[![dahak-metagenomics/dahak](https://github-readme-stats.vercel.app/api/pin/?username=dahak-metagenomics&repo=dahak&show_owner=true&theme=tokyonight)](https://github.com/dahak-metagenomics/dahak)
+
+[![dahak-metagenomics/dahak-taco](https://github-readme-stats.vercel.app/api/pin/?username=dahak-metagenomics&repo=dahak-taco&show_owner=true&theme=tokyonight)](https://github.com/dahak-metagenomics/dahak-taco)
+
+[![charlesreid1/2019-snakemake-cli](https://github-readme-stats.vercel.app/api/pin/?username=charlesreid1&repo=2019-snakemake-cli&show_owner=true&theme=tokyonight)](https://github.com/charlesreid1/2019-snakemake-cli)
+
+[![charlesreid1/2019-snakemake-byok8s](https://github-readme-stats.vercel.app/api/pin/?username=charlesreid1&repo=2019-snakemake-byok8s&show_owner=true&theme=tokyonight)](https://github.com/charlesreid1/2019-snakemake-byok8s)
+
+[![dcppc/centillion](https://github-readme-stats.vercel.app/api/pin/?username=dcppc&repo=centillion&show_owner=true&theme=tokyonight)](https://github.com/dcppc/centillion)
+
+[![charlesreid1/rubiks-cycles](https://github-readme-stats.vercel.app/api/pin/?username=charlesreid1&repo=rubiks-cycles&show_owner=true&theme=tokyonight)](https://github.com/charlesreid1/rubiks-cycles)
+
+[![charlesreid1/spots](https://github-readme-stats.vercel.app/api/pin/?username=charlesreid1&repo=spots&show_owner=true&theme=tokyonight)](https://github.com/charlesreid1/spots)
+
+[![charlesreid1/the-mission](https://github-readme-stats.vercel.app/api/pin/?username=charlesreid1&repo=the-mission&show_owner=true&theme=tokyonight)](https://github.com/charlesreid1/the-mission)
+
+[![charlesreid1/flaskadillo](https://github-readme-stats.vercel.app/api/pin/?username=charlesreid1&repo=flaskadillo&show_owner=true&theme=tokyonight)](https://github.com/charlesreid1/flaskadillo)
+
+[![charlesreid1/magic-flying-pelican](https://github-readme-stats.vercel.app/api/pin/?username=charlesreid1&repo=magic-flying-pelican&show_owner=true&theme=tokyonight)](https://github.com/charlesreid1/magic-flying-pelican)
+
+[![rainbow-mind-machine/rainbow-mind-machine](https://github-readme-stats.vercel.app/api/pin/?username=rainbow-mind-machine&repo=rainbow-mind-machine&show_owner=true&theme=tokyonight)](https://github.com/rainbow-mind-machine/rainbow-mind-machine)
+
+[![rainbow-mind-machine/embarcadero-mind-machine](https://github-readme-stats.vercel.app/api/pin/?username=rainbow-mind-machine&repo=embarcadero-mind-machine&show_owner=true&theme=tokyonight)](https://github.com/rainbow-mind-machine/embarcadero-mind-machine)
+
+[![rainbow-mind-machine/boring-mind-machine](https://github-readme-stats.vercel.app/api/pin/?username=rainbow-mind-machine&repo=boring-mind-machine&show_owner=true&theme=tokyonight)](https://github.com/rainbow-mind-machine/boring-mind-machine)
+
+[![rainbow-mind-machine/russian-rainbow-mind-machine](https://github-readme-stats.vercel.app/api/pin/?username=rainbow-mind-machine&repo=russian-rainbow-mind-machine&show_owner=true&theme=tokyonight)](https://github.com/rainbow-mind-machine/russian-rainbow-mind-machine)
+
 
 <a name="code-git"></a>
 ## git.charlesreid1.com
