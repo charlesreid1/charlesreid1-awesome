@@ -17,12 +17,6 @@ I am awesome. Here is a list of my awesome stuff.
     * [Hacking and Networking](#hacking-and-networking)
     * [MiniPwners](#minipwners)
     * [Radio](#radio)
-* [Twitter bots](#twitter-bots)
-    * [Apollo Space Junk Bot Flock](#apollo-space-junk-bot-flock)
-    * [Paradise Lost Bot Flock](#paradise-lost-bot-flock)
-    * [Ginsberg Bot Flock](#ginsberg-bot-flock)
-    * [This Is Watergate Bot](#this-is-watergate-bot)
-    * [Code](#code-1)
 * [Reading](#reading)
 * [Jams](#jams)
 
@@ -408,46 +402,6 @@ Raspberry Pi:
 	* [Digital Modes on Raspberry Pi](https://charlesreid1.com/wiki/RaspberryPi/Digital_Modes) - running digital modes using a Raspberry Pi
 
 
-
-<br />
-<br />
-
-
-
-<a name="bots"></a>
-# Twitter bots
-
-*Twitter bot flocks.*
-
-<a name="bots-apollo"></a>
-## Apollo Space Junk Bot Flock
-
-* [apollospacejunk](https://git.charlesreid1.com/charlesreid1/apollospacejunk) - Apollo Space Junk Twitter Bot Flock. Tweeting fake Apollo radio chatter.
-
-<a name="bots-milton"></a>
-## Paradise Lost Bot Flock
-
-* [milton](https://git.charlesreid1.com/charlesreid1/milton) - Perpetually tweeting John Milton's Paradise Lost on Twitter.
-
-<a name="bots-ginsberg"></a>
-## Ginsberg Bot Flock
-
-* [ginsberg](https://git.charlesreid1.com/charlesreid1/ginsberg) - Perpetually tweeting Allen Ginsberg poems on Twitter.
-
-<a name="bots-watergate"></a>
-## This Is Watergate Bot
-
-* [watergate](https://git.charlesreid1.com/charlesreid1/watergate) - A Watergate White House tapes dialogue generator.
-
-<a name="bots-code"></a>
-## Code
-
-Twitter bots code at git.charlesreid1.com:
-* [apollospacejunk](https://git.charlesreid1.com/charlesreid1/apollospacejunk) - Apollo Space Junk Twitter Bot Flock. Tweeting fake Apollo radio chatter.
-* [milton](https://git.charlesreid1.com/charlesreid1/milton) - Perpetually tweeting John Milton's Paradise Lost on Twitter.
-* [ginsberg](https://git.charlesreid1.com/charlesreid1/ginsberg) - Perpetually tweeting Allen Ginsberg poems on Twitter.
-* [watergate](https://git.charlesreid1.com/charlesreid1/watergate) - A Watergate White House tapes dialogue generator.
-* [rainbow-mind-machine](https://git.charlesreid1.com/charlesreid1/rainbow-mind-machine) -  An extendable framework for running Twitter bot flocks. 
 
 
 <br />
